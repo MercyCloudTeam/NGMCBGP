@@ -1,0 +1,7 @@
+composer.phar
+/vendor/
+peer.json
+test.php
+*.mmdb
+.vscode/
+/mmdb/

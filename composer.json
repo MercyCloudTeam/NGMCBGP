@@ -1,0 +1,27 @@
+{
+    "name": "mercycloudteam/ngmcbgp",
+    "description": "POZHEN BGP MercyCloud",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "YFsama",
+            "email": "yf@rbq.ai"
+        },
+        {
+            "name": "VampireOo",
+            "email": "oo@vampire.cloud"
+        },
+        {
+            "name": "MercyCloud NOC",
+            "email": "noc@mercycloud.com"
+        }
+    ],
+    "require": {
+        "geoip2/geoip2": "~2.0",
+        "rinvex/countries": "^7.0"
+    },
+    "require-dev": {
+        "swoole/ide-helper": "@dev"
+    }
+}
